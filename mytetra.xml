@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="1"/>
+ <content>
+  <node id="1" name="\">
+   <recordtable>
+    <record dir="0000000001" url="" tags="MyTetra, Qt" author="" id="1" ctime="20081210124656" name="Welcome to MyTetra!" file="text.html"/>
+   </recordtable>
+  </node>
+  <node id="14909896741yzyi2001r" name="IT">
+   <node id="14909897220rnhrucegi" name="Programming">
+    <node id="1490989782mgmis4jytq" name="Python">
+     <node id="1490989947fa7ss2u4if" name="pandas"/>
+    </node>
+   </node>
+  </node>
+ </content>
+</root>
