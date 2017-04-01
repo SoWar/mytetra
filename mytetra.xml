@@ -3,11 +3,6 @@
 <root>
  <format version="1" subversion="1"/>
  <content>
-  <node id="1" name="\">
-   <recordtable>
-    <record dir="0000000001" url="" tags="MyTetra, Qt" author="" id="1" ctime="20081210124656" name="Welcome to MyTetra!" file="text.html"/>
-   </recordtable>
-  </node>
   <node id="14909896741yzyi2001r" name="IT">
    <node id="14909897220rnhrucegi" name="Programming">
     <node id="1490989782mgmis4jytq" name="Python">
@@ -15,13 +10,6 @@
      <node id="14909934711v0rmaermd" name="numpy"/>
     </node>
     <node id="1490993493lxxi7cv666" name="HTML&amp;CSS"/>
-   </node>
-  </node>
-  <node crypt="1" id="1490993529ng0h8xk4ne" name="jLVM2ymXwjjgFcfONgN1PWgZmo6uQSkSYIuZDcilAMA=">
-   <node crypt="1" id="1490993559w4w960dkfb" name="YMaZczvAtahigiFRRQ4rrC5eEGavxjHM">
-    <recordtable>
-     <record dir="1490993694q69at529kc" crypt="1" url="" tags="" author="" id="1490993694ewhkn7ty06" ctime="20170331235454" name="j+qDRe4uLQFzxNpUhvvOuF6mwDa2/rPS" file="text.html"/>
-    </recordtable>
    </node>
   </node>
  </content>
